@@ -16,21 +16,22 @@
           "type": "link_list",
           "settings": {
             "heading": "Info",
-            "menu": "footer"
+            "menu": "info"
           }
         },
-        "footer-2": {
-          "type": "text",
+        "image_HbEqwd": {
+          "type": "image",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "image": "shopify:\/\/shop_images\/Logo.svg",
+            "image_width": 120,
+            "alignment": ""
           }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
-        "footer-2"
+        "image_HbEqwd"
       ],
       "settings": {
         "color_scheme": "scheme-1",
